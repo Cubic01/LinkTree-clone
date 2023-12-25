@@ -10,6 +10,6 @@
 ## 💡 About the project
 
 This is an open source project that serves as a free alternative to the Linktree website.
-- [Demo](cubic.wtf)
+- [Demo](https://cubic.wtf/)
 
 
